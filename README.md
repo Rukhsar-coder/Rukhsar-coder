@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rukhsar-coder
+<h3 align="left">👋 Hi, I’m @Rukhsar-coder</h3>
 
 <h3 align="center">I am passionate about creating great user experiences and leverage technology as a way to solve nowadays problems.</h3>
 <p align="center">
