@@ -24,6 +24,12 @@ alt="www.linkedin.com/in/rukhsar-pathan" height="30" width="40" /></a>
 
   <a href="mailto:rukshar_malik@yahoo.com" target="blank">
 <img align="center" src="https://img.icons8.com/carbon-copy/100/000000/email.png" height="50"/></a>
+  
+  
+  <a href="https://rukhsar-pathan-portfolio.netlify.app/" target="blank">
+<img align="center" src="https://img.icons8.com/ios/96/000000/person-female--v1.png" 
+alt="https://rukhsar-pathan-portfolio.netlify.app/" height="30" width="40" /></a>
+  
 </p>
 <!---
 Rukhsar-coder/Rukhsar-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
