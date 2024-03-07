@@ -18,6 +18,11 @@
  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left" display="flex" alignItems="center">
+  <a href="https://rukhsar-pathan-portfolio.netlify.app/" target="blank">
+<img align="center" src="https://img.icons8.com/ios/96/000000/person-female--v1.png" 
+alt="[https://rukhsar-pathan-portfolio.netlify.app/](https://rukhsar-pathan-react2024.netlify.app/
+
+)" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/rukhsar-pathan" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 alt="www.linkedin.com/in/rukhsar-pathan" height="30" width="40" /></a>
