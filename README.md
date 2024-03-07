@@ -40,5 +40,3 @@ alt="https://rukhsar-pathan-portfolio.netlify.app/" height="30" width="40" /></a
 Rukhsar-coder/Rukhsar-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://rukhsar-pathan-react2024.netlify.app/
-
